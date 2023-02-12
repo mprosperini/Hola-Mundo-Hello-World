@@ -1,10 +1,12 @@
 # Hola-Mundo-Hello-World
 <div id="header" align="left">
   <img src="https://i.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.webp" width="200"/>
-</div>
+
+<h3> About me </h3>
 
 <br>
-Contact me
+</div>
+<h3> Contact me </h3>
 <div id="contact-badges">
   <a href="https://www.linkedin.com/in/mprosperini/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge"/>
@@ -30,10 +32,9 @@ Contact me
     <img src="https://img.shields.io/badge/JavaScript-E5C731?logo=javascript&logoColor=black&style=for-the-badge" alt="JavaScript Badge"/>
   </a>
 </div>
-  
 
 <br>
-<h1> Currently learning: </h1>
+<h3> Currently learning: </h3>
 <div id="learning-badges">
   <a href="">
     <img src="https://img.shields.io/badge/Java-D96704?logo=java&logoColor=white&style=for-the-badge" alt="Java Badge"/>
