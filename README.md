@@ -27,7 +27,7 @@
   
   
   
-  <h3> Familiarized with: (Languages) </h3>
+  <h3> Familiarized with: </h3>
   <a href="">
     <img src="https://img.shields.io/badge/HTML-F24E29?logo=html5&logoColor=white&style=for-the-badge" alt="HTML Badge"/>
   </a>
@@ -38,6 +38,14 @@
     <img src="https://img.shields.io/badge/JavaScript-E5C731?logo=javascript&logoColor=black&style=for-the-badge" alt="JavaScript Badge"/>
   </a>
   
+  <div id="" align="center">
+  <a href="">
+    <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=black&style=for-the-badge" alt="MySQL Badge"/>
+  </a>
+  <a href="">
+    <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge" alt="Linux"/>
+  </a>
+  </div>
   
   
   
