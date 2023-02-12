@@ -1,15 +1,15 @@
-# Hola-Mundo-Hello-World
-<img src="https://komarev.com/ghpvc/?username=mprosperini&style=flat-square&color=blue" alt="visit-counter"/>
+# Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 
-<div id="header" align="left">
-  <img src="https://i.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.webp" width="200"/>  
-</div>
 
-<h4> About me </h4>
+<h3> About me </h3>
+<p> Hi, im Maurizio, im a Trainne in Programming and Web Developing </p>
 
-<div id="badges">
+
+<div id="badges" align="center">
   
-  <h4> Contact me </h4>  
+  <div id="gif-header" align="center">
+  <img src="https://i.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.webp" width="200"/>  
+  </div>
   
   <a href="https://www.linkedin.com/in/mprosperini/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge"/>
@@ -21,7 +21,13 @@
     <img src="https://img.shields.io/badge/Portfolio-272D2E" alt="Portfolio Badge"/>
   </a> -->
   
-  <h4> Familiarized with: (Languages) </h4>
+  <div id="counter" align="center">
+  <img src="https://komarev.com/ghpvc/?username=mprosperini&style=flat-square&color=blue" alt="visit-counter"/>
+  </div>
+  
+  
+  
+  <h3> Familiarized with: (Languages) </h3>
   <a href="">
     <img src="https://img.shields.io/badge/HTML-F24E29?logo=html5&logoColor=white&style=for-the-badge" alt="HTML Badge"/>
   </a>
@@ -32,7 +38,10 @@
     <img src="https://img.shields.io/badge/JavaScript-E5C731?logo=javascript&logoColor=black&style=for-the-badge" alt="JavaScript Badge"/>
   </a>
   
-  <h4> Currently learning: </h4>
+  
+  
+  
+  <h3> Currently learning: </h3>
   <a href="">
     <img src="https://img.shields.io/badge/Java-D96704?logo=java&logoColor=white&style=for-the-badge" alt="Java Badge"/>
   </a>
