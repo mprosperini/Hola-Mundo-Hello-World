@@ -7,10 +7,10 @@ Contact me
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/mprosperini/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge"/>
   </a>
   <a href="mailto:mpc7w7@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-red?logo=gnu&logoColor=white" alt="Gmail Badge"/>
+    <img src="https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white&style=for-the-badge" alt="Gmail Badge"/>
   </a>
   <a href="">
     <img src="https://img.shields.io/badge/Portfolio-272D2E" alt="Portfolio Badge"/>
