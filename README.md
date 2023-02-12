@@ -1,9 +1,9 @@
 # Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 
-
-<h3> About me </h3>
-<p> Hi, im Maurizio, im a Trainne in Programming and Web Developing </p>
-
+<div align="center">
+<h2> About me </h2>
+<p> Hi, I'm Maurizio, a civil engineer, currently studying programming/Web Development. 🤓❤️💪</p>
+</div>
 
 <div id="badges" align="center">
   
