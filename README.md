@@ -20,7 +20,7 @@
 </div>
 
 <br>
-<h3> Familiarized with: (Languages) </h3>
+<h4> Familiarized with: (Languages) </h4>
 <div id="language-badges">
   <a href="">
     <img src="https://img.shields.io/badge/HTML-F24E29?logo=html5&logoColor=white&style=for-the-badge" alt="HTML Badge"/>
@@ -34,7 +34,7 @@
 </div>
 
 <br>
-<h3> Currently learning: </h3>
+<h4> Currently learning: </h4>
 <div id="learning-badges">
   <a href="">
     <img src="https://img.shields.io/badge/Java-D96704?logo=java&logoColor=white&style=for-the-badge" alt="Java Badge"/>
