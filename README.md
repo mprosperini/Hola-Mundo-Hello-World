@@ -17,6 +17,7 @@ Contact me
   </a>
 </div>
 
+<bl>
 
 Familiarized with: (Languages)
 
@@ -31,13 +32,15 @@ Familiarized with: (Languages)
     <img src="https://img.shields.io/badge/JavaScript-E5C731?logo=javascript&logoColor=black&style=for-the-badge" alt="JavaScript Badge"/>
   </a>
 </div>
+  
 
+<br>
 
 Currently learning:
 
 <div id="learning-badges">
   <a href="">
-    <img src="https://img.shields.io/badge/Java-orange?logo=java&logoColor=white&style=for-the-badge" alt="Java Badge"/>
+    <img src="https://img.shields.io/badge/Java-D96704?logo=java&logoColor=white&style=for-the-badge" alt="Java Badge"/>
   </a>
 </div>
 
