@@ -18,7 +18,6 @@
     <img src="https://img.shields.io/badge/Portfolio-272D2E" alt="Portfolio Badge"/>
   </a>
 </div>
-
 <br>
 <h4> Familiarized with: (Languages) </h4>
 <div id="language-badges">
@@ -32,7 +31,6 @@
     <img src="https://img.shields.io/badge/JavaScript-E5C731?logo=javascript&logoColor=black&style=for-the-badge" alt="JavaScript Badge"/>
   </a>
 </div>
-
 <br>
 <h4> Currently learning: </h4>
 <div id="learning-badges">
