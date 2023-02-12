@@ -5,6 +5,19 @@
 
 Contact me
 
-https://img.shields.io/badge/LinkedIn-blue
-https://img.shields.io/badge/Gmail-red
-https://img.shields.io/badge/Portfolio-272D2E
+<div id="badges">
+  <a href="your-linkedin-URL">
+    <img src="https://img.shields.io/badge/LinkedIn-blue" alt="LinkedIn Badge"/>
+  </a>
+  <a href="your-youtube-URL">
+    <img src="https://img.shields.io/badge/Gmail-red" alt="Gmail Badge"/>
+  </a>
+  <a href="your-twitter-URL">
+    <img src="https://img.shields.io/badge/Portfolio-272D2E" alt="Portfolio Badge"/>
+  </a>
+</div>
+
+
+
+
+
