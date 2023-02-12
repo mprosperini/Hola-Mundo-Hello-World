@@ -22,13 +22,13 @@ Familiarized with: (Languages)
 
 <div id="language-badges">
   <a href="">
-    <img src="https://img.shields.io/badge/HTML-#F24E29?logo=html&logoColor=white&style=for-the-badge" alt="HTML Badge"/>
+    <img src="https://img.shields.io/badge/HTML-F24E29?logo=html&logoColor=white&style=for-the-badge" alt="HTML Badge"/>
   </a>
   <a href="">
-    <img src="https://img.shields.io/badge/CSS-#0477BF?logo=css&logoColor=white&style=for-the-badge" alt="CSS Badge"/>
+    <img src="https://img.shields.io/badge/CSS-0477BF?logo=css&logoColor=white&style=for-the-badge" alt="CSS Badge"/>
   </a>
   <a href="">
-    <img src="https://img.shields.io/badge/Portfolio-272D2E" alt="Portfolio Badge"/>
+    <img src="https://img.shields.io/badge/JavaScript-E5C731?logo=javascript&logoColor=black&style=for-the-badge" alt="JavaScript Badge"/>
   </a>
 </div>
 
